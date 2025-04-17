@@ -1,0 +1,174 @@
+C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/testbench/PC_tb.v {1 {vlog -work work -vopt -stats=none C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/testbench/PC_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module PC_tb
+
+Top level modules:
+	PC_tb
+
+} {} {}} C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/ALU.v {1 {vlog -work work -vopt -stats=none C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/ALU.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/Control_Unit_Top.v {1 {vlog -work work -vopt -stats=none C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/Control_Unit_Top.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module ALU_Decoder
+-- Compiling module Main_Decoder
+-- Compiling module Control_Unit_Top
+
+Top level modules:
+	Control_Unit_Top
+
+} {} {}} C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/Data_Memory.v {1 {vlog -work work -vopt -stats=none C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/Data_Memory.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Data_Memory
+
+Top level modules:
+	Data_Memory
+
+} {} {}} C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/Instruction_Memory.v {1 {vlog -work work -vopt -stats=none C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/Instruction_Memory.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Instruction_Memory
+
+Top level modules:
+	Instruction_Memory
+
+} {} {}} C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/Main_Decoder.v {1 {vlog -work work -vopt -stats=none C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/Main_Decoder.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Main_Decoder
+
+Top level modules:
+	Main_Decoder
+
+} {} {}} C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/Mux.v {1 {vlog -work work -vopt -stats=none C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/Mux.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Mux
+
+Top level modules:
+	Mux
+
+} {} {}} C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/Single_Cycle_Top.v {1 {vlog -work work -vopt -stats=none C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/Single_Cycle_Top.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module PC_Module
+-- Compiling module Instruction_Memory
+-- Compiling module Register_File
+-- Compiling module Sign_Extend
+-- Compiling module ALU
+-- Compiling module ALU_Decoder
+-- Compiling module Main_Decoder
+-- Compiling module Control_Unit_Top
+-- Compiling module Data_Memory
+-- Compiling module PC_Adder
+-- Compiling module Single_Cycle_Top
+
+Top level modules:
+	Single_Cycle_Top
+
+} {} {}} C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/Register_File.v {1 {vlog -work work -vopt -stats=none C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/Register_File.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Register_File
+
+Top level modules:
+	Register_File
+
+} {} {}} C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/testbench/PC_Adder_tb.v {1 {vlog -work work -vopt -stats=none C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/testbench/PC_Adder_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module PC_Adder_tb
+
+Top level modules:
+	PC_Adder_tb
+
+} {} {}} C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/testbench/Mux_tb.v {1 {vlog -work work -vopt -stats=none C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/testbench/Mux_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Mux_tb
+
+Top level modules:
+	Mux_tb
+
+} {} {}} C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/testbench/Data_Memory_tb.v {1 {vlog -work work -vopt -stats=none C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/testbench/Data_Memory_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Data_Memory_tb
+
+Top level modules:
+	Data_Memory_tb
+
+} {} {}} C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/testbench/ALU_Decoder.v {1 {vlog -work work -vopt -stats=none C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/testbench/ALU_Decoder.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module ALU_Decoder_tb
+
+Top level modules:
+	ALU_Decoder_tb
+
+} {} {}} C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/testbench/ALU_tb.v {1 {vlog -work work -vopt -stats=none C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/testbench/ALU_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module ALU_tb
+
+Top level modules:
+	ALU_tb
+
+} {} {}} C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/ALU_Decoder.v {1 {vlog -work work -vopt -stats=none C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/ALU_Decoder.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module ALU_Decoder
+
+Top level modules:
+	ALU_Decoder
+
+} {} {}} C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/testbench/Register_File_tb.v {1 {vlog -work work -vopt -stats=none C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/testbench/Register_File_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Register_File_tb
+
+Top level modules:
+	Register_File_tb
+
+} {} {}} C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/Single_Cycle_Top_Tb.v {1 {vlog -work work -vopt -stats=none C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/Single_Cycle_Top_Tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Single_Cycle_Top_Tb
+
+Top level modules:
+	Single_Cycle_Top_Tb
+
+} {} {}} C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/Sign_Extend.v {1 {vlog -work work -vopt -stats=none C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/Sign_Extend.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Sign_Extend
+
+Top level modules:
+	Sign_Extend
+
+} {} {}} C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/PC_Adder.v {1 {vlog -work work -vopt -stats=none C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/PC_Adder.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module PC_Adder
+
+Top level modules:
+	PC_Adder
+
+} {} {}} C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/PC.v {1 {vlog -work work -vopt -stats=none C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/PC.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module PC_Module
+
+Top level modules:
+	PC_Module
+
+} {} {}} C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/testbench/Sign_Extend_tb.v {1 {vlog -work work -vopt -stats=none C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/testbench/Sign_Extend_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Sign_Extend_tb
+
+Top level modules:
+	Sign_Extend_tb
+
+} {} {}} C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/testbench/Instruction_Memory_tb.v {1 {vlog -work work -vopt -stats=none C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/testbench/Instruction_Memory_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Instruction_Memory_tb
+
+Top level modules:
+	Instruction_Memory_tb
+
+} {} {}} C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/testbench/Main_Decoder_tb.v {1 {vlog -work work -vopt -stats=none C:/1FileToan/hoctap/2024.2/KTMT_nang_cao/RISC-V-Single-Cycle-Core-main/src/testbench/Main_Decoder_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Main_Decoder_tb
+
+Top level modules:
+	Main_Decoder_tb
+
+} {} {}}
